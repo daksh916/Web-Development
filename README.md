@@ -2,4 +2,4 @@
 Starting Learning
 HTML
 CSS
-JAVASCRIPT
+JAVASCRIPT(JS)
